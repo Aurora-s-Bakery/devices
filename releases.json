@@ -1,0 +1,146 @@
+{
+    "devices": {
+        "dumpling": {
+            "rom": {
+                "Project_Elixir": {
+                    "title": "Project Elixir | June",
+                    "maintainer_name" : "@MudabbirulSaad",
+                    "status": "official",
+                    "android_version": "12.1",
+                    "banner": "https://telegra.ph/file/87cd4d70832e324a0c6de.jpg",
+                    "gapps": {
+                        "datetime": "1657611529",
+                        "version": "1.9",
+                        "size": "1441840806",
+                        "download": "https://projectelixiros.com/download",
+                        "support": "https://t.me/Elixir_Discussion",
+                        "updates": "https://t.me/Elixir_Updates"
+                    }
+                },
+                "blissROM": {
+                    "title": "blissROM | June",
+                    "maintainer_name" : "@MudabbirulSaad",
+                    "status": "unofficial",
+                    "android_version": "12.1",
+                    "banner": "https://telegra.ph/file/1c7e3513efede93f8abc3.jpg",
+                    "gapps": {
+                        "datetime": "1656463842",
+                        "version": "15.6",
+                        "size": "1441840806",
+                        "download": "https://sourceforge.net/projects/saadsprojects/files/dumpling/bliss/june/HOTFIX/Bliss-v15.6-dumpling-UNOFFICIAL-gapps-20220629.zip/download",
+                        "support": "https://t.me/Team_Bliss_Community",
+                        "updates": "https://t.me/BlissROM_Updates"
+                    },
+                    "vanilla": {
+                        "datetime": "1656463842",
+                        "version": "15.6",
+                        "size": "998463842",
+                        "download": "https://sourceforge.net/projects/saadsprojects/files/dumpling/bliss/june/HOTFIX/Bliss-v15.6-dumpling-UNOFFICIAL-vanilla-20220629.zip/download",
+                        "support": "https://t.me/Team_Bliss_Community",
+                        "updates": "https://t.me/BlissROM_Updates"
+                    },
+                    "foss": {
+                        "datetime": "1656463842",
+                        "version": "15.6",
+                        "size": "1341843498",
+                        "download": "https://sourceforge.net/projects/saadsprojects/files/dumpling/bliss/june/HOTFIX/Bliss-v15.6-dumpling-UNOFFICIAL-foss-20220629.zip/download",
+                        "support": "https://t.me/Team_Bliss_Community",
+                        "updates": "https://t.me/BlissROM_Updates"
+                    }
+                },
+                "Corvus": {
+                    "title": "Corvus | July",
+                    "maintainer_name" : "@MudabbirulSaad",
+                    "status": "unofficial",
+                    "android_version": "12.1",
+                    "banner": "https://telegra.ph/file/4fca4149e2a085f90dc9e.jpg",
+                    "gapps": {
+                        "datetime": "1656463842",
+                        "version": "S3.2",
+                        "size": "1441840806",
+                        "download": "https://sourceforge.net/projects/saadsprojects/files/dumpling/corvus/june/Corvus_vS3.2-Vindicate-dumpling-Gapps-Unofficial-1532.zip/download",
+                        "support": "https://t.me/CorvusCommunityOfficial",
+                        "updates": "https://t.me/CorvusChannel"
+                    },
+                    "vanilla": {
+                        "datetime": "1656463842",
+                        "version": "S3.2",
+                        "size": "910463842",
+                        "download": "https://sourceforge.net/projects/saadsprojects/files/dumpling/corvus/june/Corvus_vS3.2-Vindicate-dumpling-Gapps-Unofficial-1532.zip/download",
+                        "support": "https://t.me/CorvusCommunityOfficial",
+                        "updates": "https://t.me/CorvusChannel"
+                    }
+                },
+                "PixelOS": {
+                    "title": "PixelOS | July",
+                    "maintainer_name" : "@MudabbirulSaad",
+                    "status": "unofficial",
+                    "android_version": "12.1",
+                    "banner": "https://telegra.ph/file/484efbae4f868e67d772f.jpg",
+                    "gapps": {
+                        "datetime": "1656463842",
+                        "version": "imai lisa",
+                        "size": "1441840806",
+                        "download": "https://sourceforge.net/projects/saadsprojects/files/dumpling/PixelOS/june/PixelOS_dumpling-12.1-20220618-1910.zip/download",
+                        "support": "https://t.me/pixeloschat",
+                        "updates": "https://t.me/PixelOSOfficial"
+                    }
+                },
+                "Project_Blaze": {
+                    "title": "Project Blaze | June",
+                    "maintainer_name" : "@MudabbirulSaad",
+                    "status": "unofficial",
+                    "android_version": "12.1",
+                    "banner": "https://telegra.ph/file/22de2c10974b59e939ff2.jpg",
+                    "gapps": {
+                        "datetime": "1656463842",
+                        "version": "1.2",
+                        "size": "1441840806",
+                        "download": "https://sourceforge.net/projects/saadsprojects/files/dumpling/blaze/june/Blaze-v1.2-dumpling-20220613-0648-GAPPS-UNOFFICIAL.zip/download",
+                        "support": "https://t.me/projectblaze",
+                        "updates": "https://t.me/projectblazeupdates"
+                    },
+                    "vanilla": {
+                        "datetime": "1656463842",
+                        "version": "1.2",
+                        "size": "910463842",
+                        "download": "https://sourceforge.net/projects/saadsprojects/files/dumpling/blaze/june/Blaze-v1.2-dumpling-20220613-0648-GAPPS-UNOFFICIAL.zip/download",
+                        "support": "https://t.me/projectblaze",
+                        "updates": "https://t.me/projectblazeupdates"
+                    }
+                },
+                "EvolutionX": {
+                    "title" : "EvolutionX | June",
+                    "maintainer_name" : "@MudabbirulSaad",
+                    "status": "unofficial",
+                    "android_version": "12.1",
+                    "banner": "https://telegra.ph/file/e0569a6e96b144a10c97f.jpg",
+                    "gapps": {
+                        "datetime": "1656463842",
+                        "version": "1.2",
+                        "size": "1642840806",
+                        "download": "https://sourceforge.net/projects/saadsprojects/files/dumpling/evolutionx/june/evolution_dumpling-ota-sq3a.220605.009.b1-06091300-unofficial-unsigned.zip/download",
+                        "support": "https://t.me/EvolutionX",
+                        "updates": "https://t.me/EvolutionXUpdates"
+                    }
+                },
+                "riceDroid": {
+                    "title": "riceDroid | July",
+                    "maintainer_name" : "'Wolf 'since 1978",
+                    "status": "unofficial",
+                    "android_version": "12.1",
+                    "banner": "https://telegra.ph/file/6827f32d05830486bea3b.jpg",
+                    "gapps": {
+                        "datetime": "1658482365",
+                        "version": "3.5",
+                        "size": "1342843450",
+                        "download": "https://drive.google.com/file/d/1-2vn9tQwWnCeBue02d_qCkrWZr6gNaej/view?usp=drivesdk",
+                        "support": "https://t.me/riceDroidsupport",
+                        "updates": "https://t.me/riceDroidNews"
+                    }
+
+                }
+            }
+        }
+    }
+}
