@@ -2,6 +2,21 @@
    "devices": {
       "cheeseburger": {
          "rom": {
+            "crDroid": {
+               "android_version": "12.1",
+               "banner": "https://telegra.ph/file/87cd4d70832e324a0c6de.jpg",
+               "maintainer_name": "@SirRGB",
+               "status": "unofficial",
+               "title": "crDroid | August",
+               "Vanilla": {
+                  "datetime": "1660230900",
+                  "download": "https://drive.google.com/file/d/1n2KOrg8WjtmT6wa5zVw5blzCKskk7-Lw/view?usp=sharing",
+                  "size": "1441840806",
+                  "support": "https://t.me/OP5T_flos_crdroid_updates",
+                  "updates": "https://t.me/crDroidUpdates",
+                  "version": "8.8"
+               }
+            },
             "PixelOS": {
                "android_version": "12.1",
                "banner": "https://telegra.ph/file/484efbae4f868e67d772f.jpg",
@@ -103,6 +118,21 @@
                   "support": "https://t.me/CorvusCommunityOfficial",
                   "updates": "https://t.me/CorvusChannel",
                   "version": "S3.2"
+               }
+            },
+            "crDroid": {
+               "android_version": "12.1",
+               "banner": "https://telegra.ph/file/87cd4d70832e324a0c6de.jpg",
+               "maintainer_name": "@SirRGB",
+               "status": "unofficial",
+               "title": "crDroid | August",
+               "Vanilla": {
+                  "datetime": "1660230900",
+                  "download": "https://drive.google.com/file/d/1jFXK3n4IHI7AXRsAuusOW7IHS_Mr_thH/view?usp=sharing",
+                  "size": "1441840806",
+                  "support": "https://t.me/OP5T_flos_crdroid_updates",
+                  "updates": "https://t.me/crDroidUpdates",
+                  "version": "8.8"
                }
             },
             "EvolutionX": {
