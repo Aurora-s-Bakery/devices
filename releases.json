@@ -11,7 +11,7 @@
                "Vanilla": {
                   "datetime": "1660230900",
                   "download": "https://drive.google.com/file/d/1n2KOrg8WjtmT6wa5zVw5blzCKskk7-Lw/view?usp=sharing",
-                  "size": "1441840806",
+                  "size": "968000000",
                   "support": "https://t.me/OP5T_flos_crdroid_updates",
                   "updates": "https://t.me/crDroidUpdates",
                   "version": "8.8"
@@ -129,7 +129,7 @@
                "Vanilla": {
                   "datetime": "1660230900",
                   "download": "https://drive.google.com/file/d/1jFXK3n4IHI7AXRsAuusOW7IHS_Mr_thH/view?usp=sharing",
-                  "size": "1441840806",
+                  "size": "968000000",
                   "support": "https://t.me/OP5T_flos_crdroid_updates",
                   "updates": "https://t.me/crDroidUpdates",
                   "version": "8.8"
@@ -221,4 +221,5 @@
          }
       }
    }
+}
 }
