@@ -2,6 +2,21 @@
    "devices": {
       "cheeseburger": {
          "rom": {
+            "PixelOS": {
+               "android_version": "12.1",
+               "banner": "https://telegra.ph/file/484efbae4f868e67d772f.jpg",
+               "gapps": {
+                  "datetime": "1656463842",
+                  "download": "https://sourceforge.net/projects/saadsprojects/files/dumpling/PixelOS/august/PixelOS_dumpling-12.1-20220812-0524.zip/download",
+                  "size": "1441840806",
+                  "support": "https://t.me/pixeloschat",
+                  "updates": "https://t.me/PixelOSOfficial",
+                  "version": "chisato"
+               },
+               "maintainer_name": "@MudabbirulSaad",
+               "status": "unofficial",
+               "title": "PixelOS | August"
+            },
             "Project_Elixir": {
                "android_version": "12.1",
                "banner": "https://telegra.ph/file/87cd4d70832e324a0c6de.jpg",
@@ -23,7 +38,7 @@
                "gapps": {
                   "datetime": "1658482365",
                   "download": "https://droid.forkbomb9.ch/",
-                  "size": "1342843450",
+                  "size": "1462853362",
                   "support": "https://t.me/riceDroidsupport",
                   "updates": "https://t.me/riceDroidNews",
                   "version": "4.5"
@@ -110,15 +125,15 @@
                "banner": "https://telegra.ph/file/484efbae4f868e67d772f.jpg",
                "gapps": {
                   "datetime": "1656463842",
-                  "download": "https://sourceforge.net/projects/saadsprojects/files/dumpling/PixelOS/june/PixelOS_dumpling-12.1-20220618-1910.zip/download",
+                  "download": "https://sourceforge.net/projects/saadsprojects/files/dumpling/PixelOS/august/PixelOS_dumpling-12.1-20220812-0524.zip/download",
                   "size": "1441840806",
                   "support": "https://t.me/pixeloschat",
                   "updates": "https://t.me/PixelOSOfficial",
-                  "version": "imai lisa"
+                  "version": "chisato"
                },
                "maintainer_name": "@MudabbirulSaad",
                "status": "unofficial",
-               "title": "PixelOS | July"
+               "title": "PixelOS | August"
             },
             "Project_Blaze": {
                "android_version": "12.1",
@@ -164,7 +179,7 @@
                "gapps": {
                   "datetime": "1658482365",
                   "download": "https://droid.forkbomb9.ch/",
-                  "size": "1342843450",
+                  "size": "1462853362",
                   "support": "https://t.me/riceDroidsupport",
                   "updates": "https://t.me/riceDroidNews",
                   "version": "4.5"
